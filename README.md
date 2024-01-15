@@ -6,6 +6,18 @@
 
 Press W to move forward, A to move left, S to move backward, D to move right and the Esc button to pause the game. The goal is to collect 30 foods (yellow circles) while evading the obstacles and end the game by passing through a yellow Escape Door. The Teleporter Doors (pink doors on every level) will send you to the next level if you go through it. Colliding with the walls or the obstacles is an instant game over and your high score will be displayed on the game over scene. 1 food is equal to 1 score and both the player and the obstacles get more speed in each level.
 
+# Game Screenshots
+
+![Screenshot 2024-01-16 025608](https://github.com/aaazezeze1/Cube-Escape-3D/assets/81816019/4a1cd540-2677-48e4-87c1-d28dc520a577)
+
+![Screenshot 2024-01-16 025633](https://github.com/aaazezeze1/Cube-Escape-3D/assets/81816019/4504da59-c0b0-4cdb-8eba-72c0e3f872fe)
+
+![Screenshot 2024-01-16 025652](https://github.com/aaazezeze1/Cube-Escape-3D/assets/81816019/aed70618-efae-4c18-b3fa-31e54740c78b)
+
+![Screenshot 2024-01-16 030150](https://github.com/aaazezeze1/Cube-Escape-3D/assets/81816019/27c929fc-dbf0-42ca-9afa-de9e34f64519)
+
+![Screenshot 2024-01-16 025726](https://github.com/aaazezeze1/Cube-Escape-3D/assets/81816019/3e1b3214-25ad-43ba-ab8a-57e020733fb0)
+
 # Technologies Used
 
 1. Unity3D version 2022.3.15f1
